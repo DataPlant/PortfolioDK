@@ -23,7 +23,7 @@ class HomePage extends React.Component {
                         <h1>My Name is DK and...</h1>
                         <p className="lead">I am a motivated Full-Stack Developer transitioning from the service sector, bringing with me patience, work-ethic, social skills, and flexibility needed to survive in it. It is my personal goal to apply these skills to thrive in the programming world.</p>
                         <p className="lead">
-                            <a href="#" className="btn btn-lg btn-secondary fw-bold border-white bg-white">Learn more</a>
+                            <a href="#" className="btn btn-lg btn-secondary fw-bold border-white bg-white">Download Resume</a>
                         </p>
                     </main>
 

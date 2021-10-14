@@ -112,3 +112,12 @@ body {
 *, ::after, ::before {
   box-sizing: border-box;
 }
+
+.ptitle {
+  font-size: 25px;
+}
+
+.pimg {
+  border-radius: 8px;
+  width: 75%;
+}

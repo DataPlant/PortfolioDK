@@ -38,12 +38,12 @@ class Header extends React.Component {
       //   </nav>
 
       // </header>
-      <header class="mb-auto">
+      <header className="mb-auto">
         <div>
-          <h3 class="float-md-start mb-0">D.K Nam</h3>
-          <nav class="nav nav-masthead justify-content-center float-md-end">
-            <Link className="nav-link active" aria-current="page" to="/home">Home</Link>
-            <Link className="nav-link" to="#">Features</Link>
+          <h3 className="float-md-start mb-0">D.K Nam</h3>
+          <nav className="nav nav-masthead justify-content-center float-md-end">
+            <Link className="nav-link active" aria-current="page" to="/">Home</Link>
+            <Link className="nav-link" to="/portfolio">Portfolio</Link>
             <Link className="nav-link" to="#">Contact</Link>
           </nav>
         </div>
