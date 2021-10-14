@@ -30,6 +30,7 @@
       "not dead",
       "not op_mini all"
     ],
+    "homepage": "https://dataplant.center",
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
