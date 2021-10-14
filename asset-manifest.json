@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PortfolioDK/static/css/main.a8fb5dc6.chunk.css",
+    "main.js": "/PortfolioDK/static/js/main.6e748204.chunk.js",
+    "main.js.map": "/PortfolioDK/static/js/main.6e748204.chunk.js.map",
+    "runtime-main.js": "/PortfolioDK/static/js/runtime-main.8ba28b63.js",
+    "runtime-main.js.map": "/PortfolioDK/static/js/runtime-main.8ba28b63.js.map",
+    "static/js/2.2bd286ac.chunk.js": "/PortfolioDK/static/js/2.2bd286ac.chunk.js",
+    "static/js/2.2bd286ac.chunk.js.map": "/PortfolioDK/static/js/2.2bd286ac.chunk.js.map",
+    "static/js/3.f4ed60dc.chunk.js": "/PortfolioDK/static/js/3.f4ed60dc.chunk.js",
+    "static/js/3.f4ed60dc.chunk.js.map": "/PortfolioDK/static/js/3.f4ed60dc.chunk.js.map",
+    "index.html": "/PortfolioDK/index.html",
+    "static/css/main.a8fb5dc6.chunk.css.map": "/PortfolioDK/static/css/main.a8fb5dc6.chunk.css.map",
+    "static/js/2.2bd286ac.chunk.js.LICENSE.txt": "/PortfolioDK/static/js/2.2bd286ac.chunk.js.LICENSE.txt",
+    "static/media/Grow-a-pet.5b05c4c9.png": "/PortfolioDK/static/media/Grow-a-pet.5b05c4c9.png",
+    "static/media/TeamProj.721a5b8e.png": "/PortfolioDK/static/media/TeamProj.721a5b8e.png",
+    "static/media/Wayfarer.ae655e98.png": "/PortfolioDK/static/media/Wayfarer.ae655e98.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ba28b63.js",
+    "static/js/2.2bd286ac.chunk.js",
+    "static/css/main.a8fb5dc6.chunk.css",
+    "static/js/main.6e748204.chunk.js"
+  ]
+}
