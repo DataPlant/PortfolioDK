@@ -7,8 +7,8 @@ import PortPage from '../pages/PortPage'
 function Routes() {
     return (
         <Switch>
-            <Route exact path='/' component={HomePage} />
-            <Route exact path='/portfolio' component={PortPage} />
+            <Route exact path='/PortfolioDK/' component={HomePage} />
+            <Route exact path='/PortfolioDK/portfolio' component={PortPage} />
         </Switch>
     )
 }
