@@ -39,11 +39,11 @@ class Header extends React.Component {
 
       // </header>
       <header className="mb-auto">
-        <div>
+        <div className="navBOX">
           <h3 className="float-md-start mb-0">D.K Nam</h3>
           <nav className="nav nav-masthead justify-content-center float-md-end">
-            <Link className="nav-link active" aria-current="page" to="/">Home</Link>
-            <Link className="nav-link" to="/portfolio">Portfolio</Link>
+            <Link className="nav-link active" aria-current="page" to="/PortfolioDK/">Home</Link>
+            <Link className="nav-link" to="/PortfolioDK/portfolio">Portfolio</Link>
             <Link className="nav-link" to="#">Contact</Link>
           </nav>
         </div>
