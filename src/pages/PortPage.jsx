@@ -6,7 +6,7 @@ import Wayfarer from '../images/Wayfarer.png'
 class PortPage extends React.Component {
     render() {
         return (
-            <body className="d-flex h-100 text-center text-white bg-dark">
+            <body className="bodyBox">
                 <div className="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
 
                     <main className="px-3">
