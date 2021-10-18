@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-
+import Hireme from '../images/Hireme.png'
 
 class HomePage extends React.Component {
     render() {
@@ -15,12 +15,33 @@ class HomePage extends React.Component {
                         <p className="lead">
                             <a href="https://docs.google.com/document/d/1EEzo85o3IkqnP-en1unfnyePvi5mwsCyjSizsLSjyNY/edit?usp=sharing" className="btn btn-lg btn-secondary fw-bold border-white bg-white">Download Resume</a>
                         </p>
+                        <br/>
+                        <a><img src={Hireme} /></a>
+                        <div className='skills'>
+                            <div className='skill1'>
+                                <h3>Language Skills</h3>
+                                <h5>JavaScript | HTML | CSS | Python | R</h5>
+                                <p></p>
+                            </div>
+                        </div>
                     </main>
-
-                    <footer className="mt-auto text-white-50">
-                        
-                    </footer>
                 </div>
+                <div className='fullstack'>
+                    <div className='skill'>
+                        <h3>Data / Backend Skills</h3>
+                        <h5>MongoDB | Node.js | Express.js | Git | JSON | REST APIs | AtlasDB</h5>
+                        <p></p>
+                    </div>
+                    <div className='skill'>
+                        <h3>Frontend Skills</h3>
+                        <h5>React.js | HTML | CSS | SASS | SCSS | Heroku | Github</h5>
+                        <p></p>
+                    </div>
+                </div>
+
+                <footer className="mt-auto text-white-50">
+                    <h6><em>Built with React.js</em></h6>
+                </footer>
             </body>
         )
     }
