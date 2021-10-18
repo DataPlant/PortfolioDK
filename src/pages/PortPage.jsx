@@ -12,19 +12,21 @@ class PortPage extends React.Component {
                     <main className="px-3">
                         <div className='portfolioItems'>
                             <div className='Project1'>
-                                <a href='https://dataplant.github.io/ProjectZero/'><img className='pimg' src={Wayfarer} /></a>
+                                <a href='https://wayfarer-sette-digital.herokuapp.com/' target="_blank" rel="noopener noreferrer"><img className='pimg' src={Wayfarer} /></a>
                                 <div className='ptitle'>Wayfarer</div>
                                 <div className='p1desc'>Full-Stack MERN Application</div>
+                                <p>React | HTML | CSS | JavaScript | Mongoose | MongoDB | AtlasDB | Dotenv | JSON | Axios | Express | Bootstrap | SASS</p>
                                 <br/><br/>
                             </div>
                             <div className='Project2'>
-                                <a href='https://dkbrookeproj.herokuapp.com/'><img className='pimg' src={TeamProj} /></a>
+                                <a href='https://dkbrookeproj.herokuapp.com/' target="_blank" rel="noopener noreferrer"><img className='pimg' src={TeamProj} /></a>
                                 <div className='ptitle'>E-HUB</div>
                                 <div className='p2desc'>Full-Stack MERN Application</div>
+                                <p>React | Express | HTML | CSS | JavaScript | Mongoose | MongoDB | AtlasDB | JSON | Axios | Heroku</p>
                                 <br/><br/>
                             </div>
                             <div className='Project3'>
-                                <a href='https://dataplant.github.io/ProjectZero/'><img className='pimg' src={GrowPet} /></a>
+                                <a href='https://dataplant.github.io/ProjectZero/' target="_blank" rel="noopener noreferrer"><img className='pimg' src={GrowPet} /></a>
                                 <div className='ptitle'>Grow-A-Pet</div>
                                 <div className='p3desc'>JavaScript/HTML/CSS Application Github Deployment</div>
                                 <br/><br/>
