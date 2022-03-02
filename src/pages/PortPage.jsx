@@ -12,7 +12,7 @@ class PortPage extends React.Component {
                     <main className="px-3">
                         <div className='portfolioItems'>
                             <div className='Project1'>
-                                <a href='https://https://dk-wayfarer.herokuapp.com/' target="_blank" rel="noopener noreferrer"><img className='pimg' src={Wayfarer} /></a>
+                                <a href='https://dk-wayfarer.herokuapp.com/' target="_blank" rel="noopener noreferrer"><img className='pimg' src={Wayfarer} /></a>
                                 <div className='ptitle'>Wayfarer</div>
                                 <div className='p1desc'>Full-Stack MERN Application</div>
                                 <p>React | HTML | CSS | JavaScript | Mongoose | MongoDB | AtlasDB | Dotenv | JSON | Axios | Express | Bootstrap | SASS</p>
